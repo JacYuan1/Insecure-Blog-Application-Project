@@ -5,4 +5,4 @@ The premise of this project is to identify the vulnerabilities in an insecure bl
 *Note*: The web application’s technology stack is PHP, Nginx and PostgreSQL.
 
 ## References
-[Reference Link](https://github.com/PROG38263-W22](https://github.com/PROG38263-W22/Assignment-3)
+[Reference Link](https://github.com/PROG38263-W22/Assignment-3)
